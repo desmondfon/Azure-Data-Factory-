@@ -1,0 +1,9 @@
+{
+	"name": "v_defonaAzureKeyVault_LinkedService",
+	"properties": {
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://v-defona.vault.azure.net/"
+		}
+	}
+}
